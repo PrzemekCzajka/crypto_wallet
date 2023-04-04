@@ -1,0 +1,1 @@
+To wstęp do nowego projektu. Skupię się na budowie osobistego portfela oraz zapisu historii transakcji wykorzystując API udostępnione przez Binance.com.
